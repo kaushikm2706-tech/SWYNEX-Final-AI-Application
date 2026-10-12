@@ -1,0 +1,135 @@
+text,label
+anna en order enga irukku 3 days aachu,order_status
+order status enna ippo,order_status
+my order innum varala when will it come,order_status
+tracking number anuppunga please,order_status
+yesterday order panninen innum dispatch aagala,order_status
+parcel enga reach aayiduchu,order_status
+delivery eppo varum sollunga,order_status
+order shipped aagiducha,order_status
+bro order evlo naal aagum,order_status
+enoda order update venum,order_status
+order eppo kidaikkum anna,order_status
+courier la irukka illa innum ready aagala,order_status
+order cancel pannunga please,cancel_order
+naan order cancel panna virumburen,cancel_order
+please cancel my order wrong size pottuten,cancel_order
+anna indha order venam cancel pannidunga,cancel_order
+cancel pannanum order number 4521,cancel_order
+order ah cancel panna mudiyuma,cancel_order
+naan thappa order pannitten cancel please,cancel_order
+ippo order cancel panna refund kidaikkuma,cancel_order
+order venam anna cancel pannunga,cancel_order
+cancel my order immediately,cancel_order
+payment cut aachu but order confirm aagala,payment_issue
+money deduct aayiduchu order show aagala,payment_issue
+upi payment fail aachu but paisa poiduchu,payment_issue
+two time payment aayiduchu refund venum,payment_issue
+card la amount cut aachu confirmation illa,payment_issue
+payment pending nu kaattudhu but bank la cut aachu,payment_issue
+gpay payment success aana order place aagala,payment_issue
+extra amount charge pannirukkanga check pannunga,payment_issue
+payment error vandhuchu retry panna double charge aachu,payment_issue
+bank la paisa cut aagiduchu order id illa,payment_issue
+indha shirt L size irukka,product_query
+red colour la available ah,product_query
+indha saree cotton ah silk ah,product_query
+price evlo indha bag ku,product_query
+stock irukka anna,product_query
+cash on delivery irukka,product_query
+size chart anuppunga,product_query
+indha model oda warranty irukka,product_query
+combo offer irukka sollunga,product_query
+this one waterproof ah,product_query
+product romba mosam quality illa,complaint
+damaged ah vandhuchu pic anuppuren,complaint
+wrong item anuppiteenga naan ketadhu vera,complaint
+romba late aachu service worst,complaint
+colour photo la irundhadhu maari illa fake,complaint
+box open pannina udanjiruchu,complaint
+size romba chinnadhu irukku waste of money,complaint
+neenga kudutha product work aagala,complaint
+customer care phone eduka maatranga romba mosam,complaint
+indha mari product ah nambi order pannen ematrittenga,complaint
+ok thanks,other
+nandri anna,other
+super,other
+good morning,other
+hello,other
+sari anna paakalaam,other
+okay noted,other
+thank you so much,other
+vanakkam,other
+ok bye,other
+anna order ippo evlo dooram vandhuruku,order_status
+en parcel track panna mudiyala link work aagala,order_status
+order confirm aagi 5 naal aachu update illa,order_status
+dispatch date sollunga please,order_status
+when will my package arrive,order_status
+delivery boy phone eduka maatran order enga,order_status
+indha vaaram kulla varuma order,order_status
+order status check panna id enna,order_status
+still no update on my order,order_status
+pa en order eppo anuppuvinga,order_status
+tracking id work aagala order enga irukku,order_status
+order ready aayiducha pickup panna varalaama,order_status
+nethu order panninen innum confirm message varala,order_status
+order ah cancel pannidunga venam,cancel_order
+wrong colour select panniten cancel panna mudiyumaa,cancel_order
+cancel order 7788 please,cancel_order
+naan vera shop la vaangiten order cancel pannunga,cancel_order
+i want to cancel and get refund,cancel_order
+dispatch aagurathukku munnadi cancel panna mudiyuma,cancel_order
+order cancel panna enna pananum,cancel_order
+intha order ah vendam anna thirumba edunga,cancel_order
+please stop my order i changed my mind,cancel_order
+cancel pannitu vera size order panren,cancel_order
+double order aayiduchu onnu cancel pannunga,cancel_order
+payment aagiduchu but app la failed nu kaattudhu,payment_issue
+refund innum varala 10 days aachu,payment_issue
+paisa thirumba vandhuduma illa illaya,payment_issue
+amount two times debit aayiduchu,payment_issue
+payment link open aagala,payment_issue
+coupon apply panniyum full amount cut aachu,payment_issue
+net banking la cut aachu order id varala,payment_issue
+my money got deducted but no order confirmation,payment_issue
+paytm la paisa pochu order illa,payment_issue
+refund status enna sollunga,payment_issue
+cod ku extra charge eduthanga ethukku,payment_issue
+emi option irukka card la,payment_issue
+indha pant 32 size stock irukka,product_query
+cotton ah polyester ah indha t shirt,product_query
+free delivery irukka,product_query
+colour options enna enna irukku,product_query
+indha item original ah,product_query
+return policy enna sollunga,product_query
+nalaiku delivery kidaikkuma indha product,product_query
+bulk order na discount tharuveengala,product_query
+this phone case fits which model,product_query
+size M available ah black colour la,product_query
+weight evlo indha bag,product_query
+cash on delivery available in chennai,product_query
+product description la irukkura maari illa ematrittenga,complaint
+romba moththama late delivery sir,complaint
+you people are cheating me worst service,complaint
+parcel open pannina ulla empty,complaint
+pant fit aagala quality um mosam,complaint
+customer care la yaarum pathil solla maatranga,complaint
+damaged product anuppiteenga refund venum,complaint
+dai ithu fraud shop ah,complaint
+delivery boy rude ah pesinaan,complaint
+expiry date mudinjiruchu indha product la,complaint
+colour fade aagiduchu first wash la,complaint
+niraya thadava sonnen yarum help pannala,complaint
+good afternoon anna,other
+thanks a lot,other
+seri anna nandri,other
+hi,other
+hello anna epdi irukkenga,other
+ok seri,other
+super quality thanks,other
+happy diwali anna,other
+hmm ok,other
+vanakkam sir,other
+nalla irukku thanks,other
+bye anna,other

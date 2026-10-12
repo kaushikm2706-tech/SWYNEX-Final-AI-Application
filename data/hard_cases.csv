@@ -1,0 +1,14 @@
+text,expected,why
+,invalid_input,empty string
+   ,invalid_input,whitespace only
+12345,invalid_input,digits only
+😀😀😀,invalid_input,emoji only
+order cancel pannunga but payment cut aachu refund venum,cancel_order|payment_issue,two intents in one message
+anna,other,single word greeting
+refund,payment_issue|cancel_order,ambiguous single word
+my order is late and the product is also damaged,order_status|complaint,two intents (English only)
+ENNA ORDER ENGA IRUKKU,order_status,all caps
+ordr cancl pannunga plz,cancel_order,heavy typos
+என் ஆர்டர் எங்கே,order_status,Tamil script (not in training data)
+kindly update me regarding the shipment of my consignment,order_status,formal English
+bro size chart venum aana payment pannitten,product_query|payment_issue,mixed intent
